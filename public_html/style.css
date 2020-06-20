@@ -1,0 +1,99 @@
+body
+{
+  margin-left : 15px ;
+  margin-top : 5px ;
+  font-family : Georgia , Serif ;
+}
+
+div
+{
+  padding-bottom : 1px ;
+  padding-top : 1px ;
+  padding-left : 1px ;
+  padding-right : 1px ;
+}
+
+td , th
+{
+  padding-bottom : 2px ;
+  padding-top : 2px ;
+  padding-right : 6px ;
+}
+
+select
+{
+  min-width : 200px ;
+  font-size : 14px ;
+}
+
+option
+{
+  width : 100% ;
+  font-size : 14px ;
+}
+
+#divTopBanner , div.cssDivTopBanner
+{
+  padding-bottom : 7px ;
+  color : Maroon ;
+  font-size : 18px ;
+}
+
+#trRouteInfoHeadings , tr.cssTrRouteInfoHeadings
+{
+  font-size : 15px ;
+  font-weight : Bold ;
+}
+
+#divRouteInfo , div.cssDivRouteInfo
+{
+  padding-top : 20px ;
+}
+
+#divTicketPurchaseConsole , div.cssDivTicketPurchaseConsole
+{
+  padding-top: 20px ;
+}
+
+#divStepOne , #thStepTwo , #divStepThree , div.cssStep
+{
+  padding-bottom : 7px ;
+  color: #000080 ; /*Dark Blue*/
+  font-size : 16px ;
+}
+
+#divRouteSelection , div.cssDivRouteSelection
+{
+  float : left ;
+  padding-right : 20px ;
+}
+
+#divTicketNumberSelection , div.cssDivTicketNumberSelection
+{
+  float : left ;
+  padding-right : 20px ;
+}
+
+#divTicketPurchaseStatus , div.cssDivPurchaseInProgress
+{
+  padding-top : 15px ;
+  clear : both ;
+}
+
+#divGlobalPhpStateInfo , div.cssDivGlobalPhpStateInfo
+{
+    width : 0px ;
+    height : 0px ;
+    visibility : hidden ;
+    display : none ;
+}
+
+div.cssDivPurchaseComplete
+{
+    color : green ;
+}
+
+.cssDivSeeTheCode
+{
+  padding-top : 30px ;
+}

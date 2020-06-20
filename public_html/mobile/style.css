@@ -1,0 +1,37 @@
+#h1PageRouteSelectionHeader , #h1PagePurchaseHeader , h1PageConfirmPurchaseHeader ,
+#h1PagePurchaseCompleteHeader
+{
+  margin-right : 0px ;
+  margin-left : 0px ;
+}
+
+div.cssDivTicketSlider
+{
+  margin : 0px auto ;
+  width : 70% ;
+  text-align : center ;
+}
+
+div.cssDivCentered
+{
+  margin-left : auto ;
+  margin-right : auto ;
+  text-align : center ;
+}
+
+div.cssDivConfirmPurchase
+{
+  font-weight : bold ;
+  margin-top : 10px ;
+  margin-bottom : 10px ;
+}
+
+#divPageConfirmPurchase
+{
+  with : 100% ;
+}
+
+#divPagePurchaseComplete
+{
+  max-width : 500px ;
+}
